@@ -1,0 +1,7 @@
+1) Comprar pa
+2) Comprar tomaquets especials per sucar
+3) Tallar el pa al llarg
+4) Tallar un tomaquet en 4 trossos
+5) Sucar pa amb tomaquet
+6) ...
+7) PROFIT!
